@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'aws-overcomplicated-send-me-an-image-ui';
+  title = 'SendMe an Image';
 }
